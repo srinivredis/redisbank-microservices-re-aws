@@ -1,6 +1,6 @@
 # Deploying to AWS Elastic Kubernetes Service - EKS
 
-In this lab we will deploy bank microservices application in EKS. The redis database will be the fully managed redis database on cloud (AWS).
+You will deploy bank microservices application in AWS EKS. The redis database will be the fully managed redis database on cloud (AWS).
 
 We will use AWS LoadBalaner Controller to enable ingress.
 
